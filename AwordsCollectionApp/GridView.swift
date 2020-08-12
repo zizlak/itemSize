@@ -9,6 +9,9 @@
 import SwiftUI
 
 struct GridView<Conten, T>: View where Conten: View {
+//  struct GridView<Conten, Size, T>: View where Conten: View, Size: CGFloat {
+// Я к сожалению не смог разобраться как два клоужера реализовать
+
     var items: [T]
     var columns: Int
     var size: CGFloat
