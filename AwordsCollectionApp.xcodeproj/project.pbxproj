@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A0EF82D524E4092000A78048 /* Path2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0EF82D424E4092000A78048 /* Path2.swift */; };
 		A803634E24E1C03E00709DE6 /* Award.swift in Sources */ = {isa = PBXBuildFile; fileRef = A803634D24E1C03E00709DE6 /* Award.swift */; };
 		A80551CF24DB159D00575B7A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80551CE24DB159D00575B7A /* AppDelegate.swift */; };
 		A80551D124DB159D00575B7A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80551D024DB159D00575B7A /* SceneDelegate.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A0EF82D424E4092000A78048 /* Path2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Path2.swift; sourceTree = "<group>"; };
 		A803634D24E1C03E00709DE6 /* Award.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Award.swift; sourceTree = "<group>"; };
 		A80551CB24DB159D00575B7A /* AwordsCollectionApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AwordsCollectionApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A80551CE24DB159D00575B7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				A80551E224DB15FB00575B7A /* ShapesView.swift */,
 				A80551E624DB170A00575B7A /* GradientRectangles.swift */,
 				A80551E824DB173900575B7A /* PathView.swift */,
+				A0EF82D424E4092000A78048 /* Path2.swift */,
 				A80551EA24DB175600575B7A /* CurvesView.swift */,
 				A8C1886024E0EADD0088DAB0 /* HypocycloidView.swift */,
 				A8AAE9AD24E1B63B00EAAB22 /* GridView.swift */,
@@ -175,6 +178,7 @@
 				A80551D124DB159D00575B7A /* SceneDelegate.swift in Sources */,
 				A803634E24E1C03E00709DE6 /* Award.swift in Sources */,
 				A80551E924DB173900575B7A /* PathView.swift in Sources */,
+				A0EF82D524E4092000A78048 /* Path2.swift in Sources */,
 				A80551E324DB15FB00575B7A /* ShapesView.swift in Sources */,
 				A80551D324DB159D00575B7A /* ContentView.swift in Sources */,
 				A8C1886124E0EADD0088DAB0 /* HypocycloidView.swift in Sources */,

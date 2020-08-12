@@ -26,7 +26,8 @@ struct Award {
                   awarded: true),
             Award(awardView: AnyView(HypocycloidView(bigR: 8, smalR: 3)),
                   title: "My Fourth Award",
-                  awarded: true)
+                  awarded: true),
+            Award(awardView: AnyView(Path2()), title: "My Fifth Award", awarded: true)
         ]
     }
 }
